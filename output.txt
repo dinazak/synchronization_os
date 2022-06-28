@@ -1,0 +1,10 @@
+(dina) (gh'])  arrived
+connection 1: dina Occupied
+(jj) (jj')  arrived
+connection 2: jj Occupied
+connection 2: jj Login
+connection 2: jj performs online activity
+connection 2: jj Logged out
+connection 1: dina Login
+connection 1: dina performs online activity
+connection 1: dina Logged out
